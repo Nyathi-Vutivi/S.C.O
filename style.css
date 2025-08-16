@@ -216,7 +216,7 @@
         /* Hero Section */
         .hero {
             height: 100vh;
-            background: linear-gradient(105deg, rgba(26, 68, 128, 0.85) 0%, rgba(44, 111, 187, 0.8) 100%), url('https://images.unsplash.com/photo-1534337621606-e3df5ee0e97f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1680&q=80') center/cover no-repeat;
+            background: linear-gradient(105deg, rgba(26, 68, 128, 0.85) 0%, rgba(44, 111, 187, 0.8) 100%), url('SCOphtos/Ourlogo.jpg') center/cover no-repeat;
             display: flex;
             align-items: center;
             color: var(--white);
